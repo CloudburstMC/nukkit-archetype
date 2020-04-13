@@ -6,7 +6,7 @@
 
     <groupId>com.nukkitx</groupId>
     <artifactId>plugin-archetype</artifactId>
-    <version>1.0</version>
+    <version>2.0</version>
     <packaging>maven-archetype</packaging>
 
     <properties>
@@ -27,7 +27,7 @@
         <repository>
             <id>central</id>
             <name>NukkitX-releases</name>
-            <url>https://repo.nukkitx.com:443/maven-releases</url>
+            <url>https://repo.nukkitx.com:443/maven-snapshots</url>
         </repository>
     </distributionManagement>
 </project>

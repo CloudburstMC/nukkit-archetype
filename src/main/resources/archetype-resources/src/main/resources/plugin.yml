@@ -1,4 +1,4 @@
 name: ${project.name}
 main: ${groupId}.${pluginName}
 version: ${project.version}
-api-version: ["1.0.9"]
+api-version: ["2.0.0"]
