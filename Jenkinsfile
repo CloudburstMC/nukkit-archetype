@@ -21,7 +21,7 @@ pipeline {
 
         stage ('Deploy') {
             when {
-                branch "master"
+                branch "dev/2.0"
             }
             steps {
                 sh 'mvn deploy -DskipTests'
