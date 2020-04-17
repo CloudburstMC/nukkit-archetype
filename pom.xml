@@ -25,9 +25,14 @@
 
     <distributionManagement>
         <repository>
-            <id>snapshots</id>
-            <name>NukkitX-snapshots</name>
-            <url>https://repo.nukkitx.com:443/maven-snapshots</url>
+            <id>releases</id>
+            <name>nukkitx-releases</name>
+            <url>https://repo.nukkitx.com:443/maven-releases</url>
         </repository>
+        <snapshotRepository>
+            <id>snapshots</id>
+            <name>nukkitx-snapshots</name>
+            <url>https://repo.nukkitx.com:443/maven-snapshots</url>
+        </snapshotRepository>
     </distributionManagement>
 </project>
