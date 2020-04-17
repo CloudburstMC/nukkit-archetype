@@ -19,7 +19,7 @@
 
     <repositories>
         <repository>
-            <id>nukkitx-repo</id>
+            <id>snapshots</id>
             <name>NukkitX-Snapshots</name>
             <url>https://repo.nukkitx.com/maven-snapshots/</url>
             <releases>
@@ -30,7 +30,7 @@
             </snapshots>
         </repository>
         <repository>
-            <id>nukkitx-snapshots</id>
+            <id>releases</id>
             <name>NukkitX-Releases</name>
             <url>https://repo.nukkitx.com/maven-releases</url>
             <releases>
