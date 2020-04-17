@@ -18,7 +18,7 @@ mvn archetype:generate -DarchetypeGroupId=com.nukkitx -DarchetypeArtifactId=plug
 Replace the variables in `<>` brackets with your values (see above) and it should then generate your project. 
 
 Creating new Plugin from IntelliJ:
------
+------
 From the new Project Window, select `Maven` as the type, the check the `Create from archetype` checkbox. On the right hand side, select `Add Archetype...` (you will only have to do this once, and IntelliJ will save it for future use).
 
 Fill in the following information into the `Add Archetype` popup window:
