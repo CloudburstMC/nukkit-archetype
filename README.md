@@ -22,7 +22,7 @@ Locate your `settings.xml` (in `{USERHOME}/.m2`) and create a profile with the N
 			<repository>
 				<id>archetype</id>
 				<name>NukkitX</name>
-				<url>https://repo.nukkitx.com/maven-releases</url>
+				<url>https://repo.opencollab.dev/maven-releases/</url>
 			</repository>
 		</repositories>
 	</profile>
